@@ -31,7 +31,7 @@ Languages and Tools:
 - ![MySQL](images/mysql.png) 
 - ![Git](images/git.png) 
 - ![Flask](images/flask.png) 
-- ![GitHub Actions](images/github-actions.png) 
+- ![GitHub Actions](images/github actions.png) 
 - ![VS Code](images/vscode.png) 
-- ![AWS CI/CD CodeSuite](images/aws-cicd.png) 
+- ![AWS CI/CD CodeSuite](images/codepipeline.png) 
 
