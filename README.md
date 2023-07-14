@@ -1,6 +1,6 @@
 Hi, I'm Dhanyal Tag! 👋
 
-As a highly motivated and ambitious aspiring Cloud Engineer, I have gained extensive experience in AWS and Terraform, earning 3 AWS certifications. I am dedicated to continuously expanding my skill set in the cloud computing field.
+As a highly motivated and ambitious aspiring Cloud Engineer, I have gained extensive experience in AWS and Terraform, earning 4 AWS certifications. I am dedicated to continuously expanding my skill set in the cloud computing field.
 
 At the age of 16, I am passionate about technology and am committed to pursuing a career in Cloud Engineering. With a strong foundation in programming languages such as Python and experience working with cloud technologies, I am confident in my ability to excel in this field.
 
