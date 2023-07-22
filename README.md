@@ -15,7 +15,7 @@ Python
 MongoDB
 React
 JavaScript
-HTML/CSS
+HTML/CSS (Tailwind)
 Docker
 Ansible
 Linux
@@ -27,5 +27,3 @@ Flask
 Django
 GitHub Actions
 AWS CI/CD CodeSuite
-
-
