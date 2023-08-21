@@ -1,29 +1,41 @@
-Hi, I'm Dhanyal Tag! 👋
+<!-- Introduction -->
+### Hi there, I'm [Your Name](https://your-portfolio-website.com) 👋
 
-As a highly motivated and ambitious aspiring Cloud Engineer, I have gained extensive experience in AWS and Terraform, earning 4 AWS certifications. I am dedicated to continuously expanding my skill set in the cloud computing field.
+I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in [mention other skills here]. I'm constantly learning and exploring new cloud technologies. 
 
-At the age of 16, I am passionate about technology and am committed to pursuing a career in Cloud Engineering/Software Engineering. With a strong foundation in programming languages such as Python and experience working with cloud technologies, I am confident in my ability to excel in this field.
+![AWS Certified](https://cdn.example.com/aws-certified-badge.png) ![Another Certification](https://cdn.example.com/another-cert-badge.png)
 
-I am a fast learner and thrive in challenging environments, eager to tackle complex projects and deliver innovative solutions. I am excited to connect with like-minded professionals and collaborate on projects that leverage the latest cloud technologies to drive business success.
+<!-- Skills -->
+### Skills
 
-Skills:
+- <i class="fab fa-aws"></i> AWS
+- <i class="fab fa-linux"></i> Linux
+- <i class="fab fa-python"></i> Python
+- <i class="fab fa-terraform"></i> Terraform
+- <i class="fab fa-docker"></i> Docker
+- <i class="fab fa-kubernetes"></i> Kubernetes
+- <i class="fas fa-database"></i> SQL
 
-AWS (Amazon Web Services)
-Terraform
-Kubernetes
-Python
-MongoDB
-React
-JavaScript
-HTML/CSS (Tailwind)
-Docker
-Ansible
-Linux
-Rabbitmq
-Kafka
-MySQL
-Git
-Flask
-Django
-GitHub Actions
-AWS CI/CD CodeSuite
+<!-- Connect with Me -->
+### Connect with Me
+
+[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/your-profile/)
+[<i class="fas fa-globe"></i> Portfolio](https://your-portfolio-website.com)
+
+<!-- GitHub Stats -->
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+<!-- Latest Blog Posts -->
+### Latest Blog Posts
+
+- [Blog Post 1](https://your-blog.com/post-1)
+- [Blog Post 2](https://your-blog.com/post-2)
+
+<!-- Footer -->
+### 📫 How to Reach Me
+
+- Email: your.email@example.com
+- Website: [Your Portfolio](https://your-portfolio-website.com)
+
