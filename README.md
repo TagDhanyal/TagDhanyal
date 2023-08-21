@@ -1,41 +1,35 @@
 <!-- Introduction -->
 ### Hi there, I'm [Your Name](https://your-portfolio-website.com) 👋
 
-I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in [mention other skills here]. I'm constantly learning and exploring new cloud technologies. 
+I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in cloud architecture, automation, and [mention other skills here]. Despite being just 16 years old, I'm dedicated to learning and exploring new cloud technologies. 
 
-![AWS Certified](https://cdn.example.com/aws-certified-badge.png) ![Another Certification](https://cdn.example.com/another-cert-badge.png)
+<!-- Certifications -->
+#### Certifications
+![AWS Certified Security - Specialty](https://www.credly.com/badges/6910cb92-b9f6-4a9a-8474-d81c0e692e87/public_url)
+![AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/d0634c8f-d00d-4c2b-9bdd-0e47f6f8e61c/public_url)
+![AWS Certified DevOps Engineer - Professional](devops-pro-link)
+![AWS Certified Solutions Architect](https://www.credly.com/badges/d44f36d4-404e-4c57-93d5-05fde8e7325b/public_url)
+![AWS Certified SysOps Administrator](https://www.credly.com/badges/2e53ddd3-03a0-4cce-8f17-bf9ff149565a/public_url)
+![AWS Certified Developer - Associate](https://www.credly.com/badges/e02e4401-f5ee-40a9-ae09-ff6c760f2630/public_url)
 
 <!-- Skills -->
-### Skills
+#### Skills
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Enthusiast-3333CC?logo=devops&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-Guru-00CCFF?logo=cloud&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Ninja-FF33CC?logo=automation&logoColor=white)
 
-- <i class="fab fa-aws"></i> AWS
-- <i class="fab fa-linux"></i> Linux
-- <i class="fab fa-python"></i> Python
-- <i class="fab fa-terraform"></i> Terraform
-- <i class="fab fa-docker"></i> Docker
-- <i class="fab fa-kubernetes"></i> Kubernetes
-- <i class="fas fa-database"></i> SQL
+<!-- Contact Me -->
+#### Contact Me
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- ✉️ Drop me an email at [your-email@example.com](mailto:your-email@example.com)
 
-<!-- Connect with Me -->
-### Connect with Me
-
-[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/your-profile/)
-[<i class="fas fa-globe"></i> Portfolio](https://your-portfolio-website.com)
+<!-- Resume and Website -->
+#### Resume & Website
+- [Download my Resume (PDF)](https://your-website.com/your-resume.pdf)
+- [Visit my Portfolio Website](https://your-portfolio-website.com)
 
 <!-- GitHub Stats -->
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-<!-- Latest Blog Posts -->
-### Latest Blog Posts
-
-- [Blog Post 1](https://your-blog.com/post-1)
-- [Blog Post 2](https://your-blog.com/post-2)
-
-<!-- Footer -->
-### 📫 How to Reach Me
-
-- Email: your.email@example.com
-- Website: [Your Portfolio](https://your-portfolio-website.com)
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
