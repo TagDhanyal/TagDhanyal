@@ -13,10 +13,29 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 
 <!-- Skills -->
 #### Skills
-![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Enthusiast-3333CC?logo=devops&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-Guru-00CCFF?logo=cloud&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Ninja-FF33CC?logo=automation&logoColor=white)
+![AWS Services](https://img.shields.io/badge/AWS%20Services-FF9900?logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-3333CC?logo=devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FF9900?logo=serverless&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?logo=amazon-aws&logoColor=white)
+![AWS AppSync](https://img.shields.io/badge/AWS%20AppSync-FF9900?logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3333CC?logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
 
 <!-- Contact Me -->
 #### Contact Me
@@ -27,8 +46,4 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 #### Resume & Website
 - [Download my Resume (PDF)](https://your-website.com/your-resume.pdf)
 - [Visit my Portfolio Website](https://your-portfolio-website.com)
-
-<!-- GitHub Stats -->
-#### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
