@@ -5,12 +5,12 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 
 <!-- Certifications -->
 #### Certifications
-![AWS Certified Security - Specialty](https://www.credly.com/badges/6910cb92-b9f6-4a9a-8474-d81c0e692e87/public_url)
-![AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/d0634c8f-d00d-4c2b-9bdd-0e47f6f8e61c/public_url)
-![AWS Certified DevOps Engineer - Professional](devops-pro-link)
-![AWS Certified Solutions Architect](https://www.credly.com/badges/d44f36d4-404e-4c57-93d5-05fde8e7325b/public_url)
-![AWS Certified SysOps Administrator](https://www.credly.com/badges/2e53ddd3-03a0-4cce-8f17-bf9ff149565a/public_url)
-![AWS Certified Developer - Associate](https://www.credly.com/badges/e02e4401-f5ee-40a9-ae09-ff6c760f2630/public_url)
+![AWS Certified Security - Specialty](images/security-specialty-badge.png)
+![AWS Certified Solutions Architect - Professional](images/solutions-architect-pro-badge.png)
+![AWS Certified DevOps Engineer - Professional](images/devops-engineer-pro-badge.png)
+![AWS Certified Solutions Architect](images/solutions-architect-badge.png)
+![AWS Certified SysOps Administrator](images/sysops-administrator-badge.png)
+![AWS Certified Developer - Associate](images/developer-associate-badge.png)
 
 <!-- Skills -->
 #### Skills
