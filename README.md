@@ -1,7 +1,7 @@
 <!-- Introduction -->
 ### Hi there, I'm [Your Name](https://your-portfolio-website.com) 👋
 
-I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in cloud architecture, automation, and software development. Despite being just 16 years old, I'm dedicated to learning and exploring new cloud technologies. 
+I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in cloud architecture, automation, and software development. Despite being just 16 years old, I'm dedicated to learning and exploring new cloud technologies.
 
 <!-- Certifications -->
 #### Certifications
@@ -38,11 +38,10 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 
 <!-- Contact Me -->
 #### Contact Me
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- ✉️ Drop me an email at [your-email@example.com](mailto:your-email@example.com)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhanyaltag/)
+- ✉️ Drop me an email at [dhanyal716@gmail.com](mailto:dhanyal716@gmail.com)
 
 <!-- Resume and Website -->
 #### Resume & Website
-- [Download my Resume (PDF)](https://your-website.com/your-resume.pdf)
-- [Visit my Portfolio Website](https://your-portfolio-website.com)
-
+- [Download my Resume (PDF)](https://your-website.com/your-resume.pdf) *(Work in Progress, will update soon)*
+- [Visit my Portfolio Website](https://your-portfolio-website.com) *(Work in Progress, will update soon)*
