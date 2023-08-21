@@ -36,7 +36,6 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 ![Supabase](https://img.shields.io/badge/Supabase-3333CC?logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-
 <!-- Contact Me -->
 #### Contact Me
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
