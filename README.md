@@ -7,8 +7,8 @@ I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps.
 #### Certifications
 ![AWS Certified Security - Specialty](images/aws-certified-security-specialty.png)
 ![AWS Certified Solutions Architect - Professional](images/aws-certified-solutions-architect-professional.png)
-![AWS Certified Solutions Architect](images/aws-certified-solutions-architect-associate.png)
 ![AWS Certified DevOps Engineer – Professional](images/aws-certified-devops-engineer-professional.png)
+![AWS Certified Solutions Architect](images/aws-certified-solutions-architect-associate.png)
 ![AWS Certified SysOps Administrator](images/aws-certified-sysops-administrator-associate.png)
 ![AWS Certified Developer - Associate](images/aws-certified-developer-associate.png)
 
