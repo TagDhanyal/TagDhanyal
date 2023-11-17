@@ -1,7 +1,14 @@
-<!-- Introduction -->
-### Hi there, I'm [Dhanyal Tag](https://your-portfolio-website.com) 👋
+Hey there! 👋 I'm Dhanyal Tag, a 17-year-old Solution Architect and software engineer on a mission to craft exceptional tech solutions. Here's a quick dive into what I specialize in:
 
-I'm a passionate AWS Cloud Engineer with a love for all things cloud and DevOps. I hold multiple AWS certifications and have a strong background in cloud architecture, automation, and software development. Despite being just 16 years old, I'm dedicated to learning and exploring new cloud technologies.
+Solution Architecture: I design cloud software solutions focused on delivering the best user experience. From seamless data engineering and data science integration to AI engineering, backend development, and robust DevOps practices, I ensure every element is meticulously crafted.
+
+Generative AI: My passion lies in Generative AI, where I bring creativity and innovation to the forefront. From AI chatbots to generative AI engineering, I'm committed to making tech not just functional but also captivating.
+
+DevOps & Infrastructure: Seamlessly integrating DevOps practices, I navigate Azure (AKS, OpenAI), GCP (GKE, Firebase), and more to ensure smooth operations and efficient infrastructure. Automation is the key to driving excellence in every project.
+
+Cloud Solutions: AWS is my playground, but I also explore Azure and GCP proficiently. Whether it's OpenAI in Azure, AKS, GKE, Firebase, or more, I architect cloud solutions that align with real-world needs.
+
+Security-First Mindset: Security is ingrained in every solution I craft. It's not just about protecting data; it's about securing the entire user experience.
 
 <!-- Certifications -->
 #### Certifications
