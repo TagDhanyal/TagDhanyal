@@ -27,9 +27,6 @@ I seamlessly integrate DevOps practices into my projects, ensuring smooth operat
 Security is an integral part of every solution I craft. I go beyond data protection to ensure the entire user experience is secure and reliable.
 
 ## Certifications
-
-<!-- Certifications -->
-#### Certifications
 ![AWS Certified Security - Specialty](images/aws-certified-security-specialty.png)
 ![AWS Certified Solutions Architect - Professional](images/aws-certified-solutions-architect-professional.png)
 ![AWS Certified DevOps Engineer – Professional](images/aws-certified-devops-engineer-professional.png)
@@ -38,7 +35,7 @@ Security is an integral part of every solution I craft. I go beyond data protect
 ![AWS Certified Developer - Associate](images/aws-certified-developer-associate.png)
 
 <!-- Skills -->
-#### Skills
+## Skills
 ![AWS Services](https://img.shields.io/badge/AWS%20Services-FF9900?logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-3333CC?logo=devops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
@@ -63,11 +60,11 @@ Security is an integral part of every solution I craft. I go beyond data protect
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 <!-- Contact Me -->
-#### Contact Me
+## Contact Me
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhanyaltag/)
 - ✉️ Drop me an email at [dhanyal716@gmail.com](mailto:dhanyal716@gmail.com)
 
 <!-- Resume and Website -->
-#### Resume & Website
+## Resume & Website
 - [Download my Resume (PDF)](https://your-website.com/your-resume.pdf) *(Work in Progress, will update soon)*
 - [Visit my Portfolio Website](https://your-portfolio-website.com) *(Work in Progress, will update soon)*
