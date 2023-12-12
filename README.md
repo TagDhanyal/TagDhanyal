@@ -1,30 +1,13 @@
-# Dhanyal Tag: Crafting Exceptional Tech Solutions
+# Dhanyal Tag - Software Engineer & Aspiring Solution Architect
 
-👋 Greetings!
+Hey there! 👋 I'm Dhanyal Tag, a dedicated Software Engineer with big dreams of becoming a Solution Architect. Here's a quick overview of my key areas:
 
-I'm Dhanyal Tag, a passionate and skilled Solution Architect and software engineer on a mission to create exceptional tech solutions. With a blend of expertise in cloud technologies, DevOps practices, and a keen eye for security, I bring a unique blend of skills to every project.
-
-## Areas of Expertise
-
-### Cloud Solutions
-
-I specialize in designing and implementing cloud solutions that align with real-world needs. Proficient in AWS, Azure, and GCP, I have a deep understanding of each platform's strengths and can effectively leverage them to deliver optimal results.
-
-### Solution Architecture
-
-I craft cloud software solutions that not only meet functional requirements but also provide an exceptional user experience. My approach encompasses seamless data engineering, data science integration, AI engineering, backend development, and robust DevOps practices.
-
-### Generative AI
-
-My passion lies in Generative AI, where I explore the intersection of creativity and innovation. From AI chatbots to generative AI engineering, I'm committed to pushing the boundaries of technology to create captivating and impactful solutions.
-
-### DevOps & Infrastructure
-
-I seamlessly integrate DevOps practices into my projects, ensuring smooth operations and efficient infrastructure. I'm proficient in AWS (most services) & Azure (AKS, OpenAI, Azure Pipelines, etc.) and continuously explore new tools and technologies to enhance my expertise.
-
-### Security-First Mindset
-
-Security is an integral part of every solution I craft. I go beyond data protection to ensure the entire user experience is secure and reliable.
+- 🌐 **Cloud Solutions:** Seasoned in AWS with three years of hands-on expertise, complemented by a working knowledge of Azure. Ensuring optimal outcomes for AWS-based cloud solutions.
+- 🏗️ **Solution Architecture:** Crafting exceptional user experiences through data engineering, AI, and DevOps.
+- 🤖 **Generative AI:** Pushing tech boundaries with AI chatbots and innovative solutions.
+- ⚙️ **DevOps & Infrastructure:** Ensuring seamless integration for operational efficiency.
+- 🔐 **Security-First:** Prioritizing secure and reliable user experiences.
+- 🚀 **Fast Learner, 17, Future Uni Student:** Currently 17, I'm on the path to university to delve into computer science, specifically AI.
 
 ## Certifications
 ![AWS Certified Security - Specialty](images/aws-certified-security-specialty.png)
