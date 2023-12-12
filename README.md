@@ -39,6 +39,7 @@ Security is an integral part of every solution I craft. I go beyond data protect
 ![AWS Services](https://img.shields.io/badge/AWS%20Services-FF9900?logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-3333CC?logo=devops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-5ECC00?logo=hashicorp&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FF9900?logo=serverless&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazon-aws&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?logo=amazon-aws&logoColor=white)
@@ -58,6 +59,10 @@ Security is an integral part of every solution I craft. I go beyond data protect
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3333CC?logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-0082C4?logo=openai&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-18A689?logo=amazon-aws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FFD700?logo=pytorch&logoColor=white)
+![Milvus/Zilliz](https://img.shields.io/badge/Milvus%2FZilliz-ED213A?logo=apache&logoColor=white)
 
 <!-- Contact Me -->
 ## Contact Me
