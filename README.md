@@ -1,13 +1,21 @@
 # Dhanyal Tag - Software Engineer & Aspiring Solution Architect
 
-Hey there! 👋 I'm Dhanyal Tag, a dedicated Software Engineer with big dreams of becoming a Solution Architect. Here's a quick overview of my key areas:
+Hey there! 👋 I'm Dhanyal Tag, a modern Software Engineer with DevOps and AI skills. Here's a quick overview:
 
-- 🌐 **Cloud Solutions:** Seasoned in AWS with three years of hands-on expertise, complemented by a working knowledge of Azure. Ensuring optimal outcomes for AWS-based cloud solutions.
-- 🏗️ **Solution Architecture:** Crafting exceptional user experiences through data engineering, AI, and DevOps.
-- 🤖 **Generative AI:** Pushing tech boundaries with AI chatbots and innovative solutions.
-- ⚙️ **DevOps & Infrastructure:** Ensuring seamless integration for operational efficiency.
-- 🔐 **Security-First:** Prioritizing secure and reliable user experiences.
-- 🚀 **Fast Learner, 17, Future Uni Student:** Currently 17, I'm on the path to university to delve into computer science, specifically AI.
+## Key Areas
+
+### 🌐 Cloud Solutions
+- **AWS:** 3 years of hands-on experience.
+
+### ⚙️ DevOps & Infrastructure
+- **Skills:** Docker, Kubernetes, Terraform.
+
+### 🤖 AI Skills
+- **Focus:** Generative AI solutions.
+
+### 🚀 Fast Learner
+- **Current Status:** 17 years old, aspiring to study computer science at university with a focus on AI.
+
 
 ## Certifications
 ![AWS Certified Security - Specialty](images/aws-certified-security-specialty.png)
